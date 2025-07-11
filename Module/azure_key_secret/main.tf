@@ -13,4 +13,4 @@ resource "azurerm_key_vault_secret" "key_secret" {
 #er
 #new code 
 
-#2nd new command added
+#2nd new command added new try
